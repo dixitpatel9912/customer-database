@@ -1,2 +1,2 @@
-# customer-database
-developing a application who take care of customer database
+# go training
+Assignment for go training
